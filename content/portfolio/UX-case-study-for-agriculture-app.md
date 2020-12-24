@@ -1,9 +1,9 @@
 ---
-title: Développement Site-web E-commerce
+title: UX Case Study for Agriculture App
 date: 2020-08-12T12:13:40.000+00:00
 thumbnail: images/portfolio/portfolio-4.png
-service: Web Development
-client: Ferdous Khan
+service: UX Design
+client: Jae do
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
