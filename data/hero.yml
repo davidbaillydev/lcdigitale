@@ -1,13 +1,13 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, Je suis David
 content: >
-  # I am here for your personal business
+  # Je suis développeur web et freelance digital
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  Profitez de la diversité, des nouveaux talents, et Élargisser votre réseaux.
+  
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
