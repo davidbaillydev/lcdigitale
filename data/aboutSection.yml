@@ -15,5 +15,5 @@ content: >
 button1Name: Embauchez-moi
 button2Name: Télecharge mon CV
 button1Target: contact
-button2Target: docs/cvbailly.pdf
-image: images/about/about-img.jpg
+button2Target: docs/cvbailly.pdfs
+image: images/about/david.png
