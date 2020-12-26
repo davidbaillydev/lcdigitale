@@ -57,36 +57,36 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
-footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
+copyright = "Tous droits réservés copyright © Lcdigitale 2020"
+footerLogo = "images/contact/logo.png"
+formspreeURL = "https://formspree.io/f/mayllnpk"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "Toulouse & Agglomération"
+email = "david.bailly@lcdigitale.com"
+openingHours = "Disponible du Lundi à Samedi (Sauf le Dimanche)"
+phone = "+(33) 6 12 49 64 82"
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
+APIkey = "AIzaSyDeKDEw75M6vjKFLjefSZLgNHeu3I-nX2o"
+latitude = "43.6043"
+longitude = "1.4437"
 pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+icon = "fa-codepen"
+url = "https://codepen.io/kalimbo365"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/davidbailly8/"
 weight = 2
 [[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+icon = "fa-github-square"
+url = "https://github.com/davidbaillydev"
 weight = 3
 [[params.social]]
 icon = "fa-twitter-square"
