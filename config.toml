@@ -58,10 +58,10 @@ weight = 4
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "Tous droits réservés copyright © Lcdigitale 2020"
-footerLogo = "images/contact/widget-logo.png"
+footerLogo = "images/contact/go.png"
 formspreeURL = "https://formspree.io/f/mayllnpk"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+logo = "images/site-navigation/go.png"
 
 [params.address]
 address = "Toulouse & Agglomération"
