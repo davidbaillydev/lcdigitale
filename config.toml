@@ -62,6 +62,8 @@ footerLogo = "images/contact/go.png"
 formspreeURL = "https://formspree.io/f/mayllnpk"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/go.png"
+description = "Développeur web freelance"
+metadescription = "Hello, Je suis David je suis développeur web et freelance digital"
 
 [params.address]
 address = "Toulouse & Agglomération"
