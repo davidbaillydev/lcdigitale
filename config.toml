@@ -1,52 +1,59 @@
 baseURL = "https://trusting-volhard-2edef8.netlify.app"
-languageCode = "fr"
+languageCode = "en-us"
 paginate = 6
-theme = "portio-hugo"
 title = " Lcdigitale - Freelance - David Bailly"
+theme = "portio-hugo"
+
+
+# Main Menu
 [[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 7
-[[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 6
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
-[[menu.main]]
-name = "Portofolio"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Service"
-url = "#service"
-weight = 3
+name = "Home"
+url = "#home"
+weight = 1
 [[menu.main]]
 name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Home"
-url = "#home"
-weight = 1
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
+name = "Service"
+url = "#service"
 weight = 3
+[[menu.main]]
+name = "Work"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 5
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 6
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 7
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "about"
+weight = 1
 [[menu.sitemap]]
 name = "Frequently Ask Question"
 url = "#"
 weight = 2
 [[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
+name = "Privacy & Policy"
+url = "#"
+weight = 3
+[[menu.sitemap]]
+name = "Latest Article"
+url = "#"
+weight = 4
+
+
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
@@ -55,22 +62,20 @@ footerLogo = "images/contact/go.png"
 formspreeURL = "https://formspree.io/f/mayllnpk"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/go.png"
-<<<<<<< HEAD
-description = "Développeur web freelance"
-metadescription = "Hello, Je suis David je suis développeur web et freelance digital"
 
-=======
->>>>>>> 02d0d07b62f85216b3b950a543d166980551784a
 [params.address]
 address = "Toulouse & Agglomération"
 email = "david.bailly@lcdigitale.com"
 openingHours = "Disponible du Lundi à Samedi (Sauf le Dimanche)"
 phone = "+(33) 6 12 49 64 82"
+
 [params.map]
 APIkey = "AIzaSyDeKDEw75M6vjKFLjefSZLgNHeu3I-nX2o"
 latitude = "43.6043"
 longitude = "1.4437"
 pinImage = "images/pin.png"
+
+# Social icons
 [[params.social]]
 icon = "fa-codepen"
 url = "https://codepen.io/kalimbo365"
@@ -87,3 +92,4 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
+
