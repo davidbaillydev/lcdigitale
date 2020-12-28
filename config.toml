@@ -1,59 +1,52 @@
 baseURL = "https://trusting-volhard-2edef8.netlify.app"
 languageCode = "en-us"
 paginate = 6
-title = " Lcdigitale - Freelance - David Bailly"
 theme = "portio-hugo"
-
-
-# Main Menu
+title = " Lcdigitale - Freelance - David Bailly"
 [[menu.main]]
-name = "Home"
-url = "#home"
-weight = 1
-[[menu.main]]
-name = "About"
-url = "#about"
-weight = 2
-[[menu.main]]
-name = "Service"
-url = "#service"
-weight = 3
-[[menu.main]]
-name = "Work"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
+name = "Contact"
+url = "#contact"
+weight = 7
 [[menu.main]]
 name = "Blog"
 url = "#blog"
 weight = 6
 [[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 7
-
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "Resume"
+url = "#resume"
+weight = 5
+[[menu.main]]
+name = "Portofolio"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "#home"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
+name = "Latest Article"
 url = "#"
-weight = 2
+weight = 4
 [[menu.sitemap]]
 name = "Privacy & Policy"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "Frequently Ask Question"
 url = "#"
-weight = 4
-
-
+weight = 2
+[[menu.sitemap]]
+name = "About me"
+url = "about"
+weight = 1
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
@@ -62,20 +55,16 @@ footerLogo = "images/contact/go.png"
 formspreeURL = "https://formspree.io/f/mayllnpk"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/go.png"
-
 [params.address]
 address = "Toulouse & Agglomération"
 email = "david.bailly@lcdigitale.com"
 openingHours = "Disponible du Lundi à Samedi (Sauf le Dimanche)"
 phone = "+(33) 6 12 49 64 82"
-
 [params.map]
 APIkey = "AIzaSyDeKDEw75M6vjKFLjefSZLgNHeu3I-nX2o"
 latitude = "43.6043"
 longitude = "1.4437"
 pinImage = "images/pin.png"
-
-# Social icons
 [[params.social]]
 icon = "fa-codepen"
 url = "https://codepen.io/kalimbo365"
@@ -92,4 +81,3 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
-
