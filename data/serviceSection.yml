@@ -1,8 +1,8 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Espace de Travail
 title: >
-  ## Creative Services
+  ## Mes Services
 
   
   Découvrez mes services et mon expertise dans différents domaines.
@@ -16,14 +16,14 @@ service:
          Tout en restant ergonomique et en appliquant un cadre design responsive.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Le Développement Web 
 
       J'interviens dans la création sites internet, vitrine ou E-commerce.
         Avec des outils d'intégration Spécifique à votre besoin.
           Respectant des standards du web, je m'adapte à vos projets.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Création Graphique 
 
       
        Je vous propose mes services dans la conception graphique et Webdesign.
@@ -31,14 +31,14 @@ service:
           Et autre réalisation graphique au service de votre image.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Image de Marque
 
       
       J'accompagne votre marque ou entreprise à véhiculer, promovoir une image forte à travers différents support de communication. 
         Rassurante et incitative à l’achat, et gagner la confiance de votre clientèle .
     image: images/service/branding.svg
   - content: >
-      #### Digital Marketing
+      #### Marketing Digitale
 
       J'apporte les outils,les concepts de création de solution web, 
         dans la mise en place d'une stratégie numérique.
