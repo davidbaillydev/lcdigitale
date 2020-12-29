@@ -37,19 +37,19 @@ weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
+name = "À Propos"
 url = "about"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
+name = "FAQ"
 url = "#"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
+name = "Politique & Confidentialité"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "Denier Article"
 url = "#"
 weight = 4
 
