@@ -49,7 +49,7 @@ name = "Politique & Confidentialité"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Denier Article"
+name = "Dernier Article"
 url = "#"
 weight = 4
 
