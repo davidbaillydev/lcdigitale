@@ -4,7 +4,6 @@ paginate = 6
 title = " Lcdigitale - Freelance - David Bailly"
 theme = "portio-hugo"
 
-enableRobotsTXT = "true"
 
 # Main Menu
 [[menu.main]]
